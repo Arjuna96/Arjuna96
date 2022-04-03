@@ -31,13 +31,17 @@
 <h1></h1>
 
 <h3 align = "center">
-       👩‍💻 Git Stats
+       :man_technologist: Git Stats
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arjuna96&label=Profile%20views&color=0e75b6&style=flat" alt="punk-rocher" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Arjuna96&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arjuna96&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Arjuna96&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+<hr>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arjuna96&theme=algolia&hide_border=true)<br/><br/>
+<hr>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjuna96&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </P>
 
