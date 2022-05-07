@@ -24,6 +24,7 @@
 <p >
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GCP-007ACC?style=flat&logo=googlecloud&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-ffffff?style=flat&logo=graphQL&logoColor=E10098" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
