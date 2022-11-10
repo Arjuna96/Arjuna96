@@ -1,7 +1,7 @@
 ### <h1 align='center'> Hi there 👋,  I'm Shanil Arjuna 👨‍💻 </h1>
 
 <p align='center'>
-  I live in Colombo, Sri Lanka and work at <b>:Different Technologies</b> 
+  I live in Colombo, Sri Lanka and work at <b>Openprovider</b> 
 </p>
 
 <p align='center'>
