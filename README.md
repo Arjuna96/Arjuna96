@@ -7,7 +7,9 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/shanil-arjuna/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shanilarjuna@gmail.com?subject=Hi%20Shanil"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/7090629/shanil-arjuna"><img src="https://img.shields.io/badge/StackOverflow-%2320232A.svg?&style=flat&logo=stackoverflow&logoColor=F48225" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <a href="https://stackoverflow.com/users/7090629/shanil-arjuna"><img src="https://img.shields.io/badge/StackOverflow-%2320232A.svg?&style=flat&logo=stackoverflow&logoColor=F48225" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+    <a href="https://stackoverflow.com/users/7090629/shanil-arjuna"><img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=7090629" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
