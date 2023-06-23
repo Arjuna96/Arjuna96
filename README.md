@@ -39,8 +39,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=7090629" /></a>&nbsp;&nbsp;&
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arjuna96&label=Profile%20views&color=0e75b6&style=flat" alt="punk-rocher" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Arjuna96&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
-<hr>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Arjuna96&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+<hr> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arjuna96&theme=algolia&hide_border=true)<br/><br/>
 <hr>
